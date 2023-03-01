@@ -1,0 +1,3884 @@
+@media all and (min-width: 1920px) {
+
+    /* best-rated-page */
+    .H_single-div_active.owl-carousel {
+        display: flex;
+    }
+}
+
+@media all and (max-width: 1920px) {
+
+    /* best-rated-page */
+    .H_single-div_active.owl-carousel {
+        display: flex;
+    }
+}
+
+@media all and (max-width: 1900px) {
+    .main-menu ul {
+        gap: 42px;
+    }
+
+    .main-menu ul li a {
+        font-size: 16px;
+    }
+
+
+
+    /* home-page-start */
+    .home-tow-start {
+        gap: 6px;
+        justify-items: center;
+    }
+
+    .h-home-preoduct-img img {
+        margin-left: 40px;
+    }
+
+
+
+
+    /* two-items-same */
+
+    /* best-rated-section-start */
+    .best-rated-b-right p {
+        font-size: 18px;
+        line-height: 28px;
+        max-width: unset;
+        padding-left: 100px;
+    }
+
+    .best-rated-b-right:after {
+        left: 0px;
+        background-position: bottom 0 left 0px;
+    }
+
+    .best-rated-banner-section::after {
+        bottom: -32px;
+        background-position: top 0px left -213px;
+        height: 33px;
+    }
+
+    /* five-items-same */
+
+    /* services-page-start */
+    .single-serve-booking {
+        width: calc(1760px - 533px);
+    }
+
+    /* brokly-page-start */
+
+
+
+}
+
+
+
+@media all and (max-width: 1699px) {
+    .logo-area {
+        -ms-flex: auto;
+        flex: auto;
+    }
+
+    .location-area p {
+        padding: 10px 34px 10px 5px;
+    }
+
+    .main_menu-area {
+        flex: auto;
+        -ms-flex: auto;
+    }
+
+    .main-menu {
+        justify-content: flex-end;
+        align-items: center;
+        padding: 18px 38px 18px 0px;
+    }
+
+    .call-area ul {
+        gap: 35px;
+    }
+
+    .main-menu ul {
+        gap: 30px;
+    }
+
+    .main-menu ul li a {
+        font-size: 18px;
+    }
+
+    /*fotter-top-area*/
+    .f-single-area {
+        padding: 60px 50px 40px 50px;
+    }
+
+    .f-single-area h5,
+    .f-single-area p,
+    .f-single-area a {
+        padding-left: 110px;
+    }
+
+    .f-single-area iframe,
+    .f-single-area button {
+        margin-left: 110px;
+    }
+
+    /* home-page-start */
+    .banner-text {
+        padding: 60px 0px;
+    }
+
+    .banner-reviwe p {
+        margin-bottom: 15px;
+    }
+
+    .banner-top-rated h5 {
+        line-height: 30px;
+    }
+
+    .banner-top-rated h1 {
+        font-size: 55px;
+        line-height: 59px;
+        margin-bottom: 35px;
+        padding-bottom: 35px;
+    }
+
+    .year_20 h5 {
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 14px;
+    }
+
+    .banner-bot {
+        margin: 30px auto 0px;
+    }
+
+    .banner-right-video button {
+        width: 180px;
+    }
+
+    .banner-right-video button:hover {
+        width: 150px;
+    }
+
+    .booking-area {
+        gap: 150px;
+    }
+
+    .single-home-tow {
+        width: 340px;
+        height: 350px;
+    }
+
+    .h-home-preoduct-text-start h1 {
+        padding-bottom: 25px;
+        margin-bottom: 30px;
+    }
+
+    .h-home-preoduct-img img {
+        margin-left: 0px;
+    }
+
+    .h-new-patient-wrap {
+        grid-template-columns: 600px auto;
+    }
+
+    .h-Client-Testimonials-section-start {
+        padding: 88px 15px 100px;
+    }
+
+    /* five-items-same */
+
+    .all-banner_section.five {
+        background-position: top 0px left 15px;
+    }
+
+    .all_text {
+        margin-right: -80px;
+    }
+
+    .inner_text .all-p {
+        padding: 65px;
+    }
+
+    /* cosmetic-section */
+    .all-banner_section.one {
+        background-position: left 11px bottom 0;
+        padding: 209px 0px 385px;
+        background-size: 44%;
+    }
+
+    .cosmatic-m-area {
+        padding: 0px 35px;
+    }
+
+    .cosmatic-m-left h2 {
+        font-size: 39px;
+    }
+
+    .button-two.cs-b li {
+        font-size: 18px;
+    }
+
+
+
+
+    /* services-section-start */
+    .all-banner_section.three {
+        background-position: top 1px left -50px;
+    }
+
+    .button-two li {
+        margin-right: 76px;
+    }
+
+    .button-two li::after {
+        height: 69px;
+        transform: rotate(45deg);
+    }
+
+    .single-serve-booking {
+        width: calc(1760px - 704px);
+    }
+
+    .services_img-text .services_text ul li {
+        line-height: 52px;
+    }
+
+
+    /* items-two-same */
+    .H_single-div.active-two {
+        gap: 15px;
+        padding: 0px 15px;
+    }
+
+    /* contact-page */
+    .cotact-single-area h2 {
+        font-size: 29px;
+    }
+
+    .cotact-single-area ul li {
+        font-size: 19px;
+    }
+
+    .contact-form-section {
+        margin: 50px 0px 100px;
+    }
+
+    .contact-bottom-area .contact-bottom-lert {
+        padding: 70px 24px 117px 44px;
+    }
+
+}
+
+
+
+
+
+
+@media all and (max-width: 1449px) {
+    .logo-area .img img {
+        max-width: 82%;
+        padding: 10px 0px;
+    }
+
+    .main-menu ul li a {
+        font-size: 16px;
+    }
+
+
+
+    /* footer-area-start */
+    .f-single-area h5,
+    .f-single-area p,
+    .f-single-area a {
+        padding-left: 90px;
+    }
+
+    .f-single-area iframe,
+    .f-single-area button {
+        margin-left: 90px;
+    }
+
+
+    /* home-page-start */
+    .banner-text {
+        padding: 70px 0px;
+    }
+
+    .banner-top-rated h1 {
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 15px;
+        padding-bottom: 25px;
+    }
+
+    .banner-right-video button {
+        width: 150px;
+    }
+
+    .banner-right-video button:hover {
+        width: 120px;
+    }
+
+    .year_20 p {
+        line-height: 20px;
+        font-size: 14px;
+    }
+
+    .booking-area {
+        gap: 93px;
+        padding: 18px;
+    }
+
+    .home-tow-start {
+        gap: 20px;
+        justify-items: center;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .h-home-preoduct-text {
+        padding: 70px 0px;
+    }
+
+    .h-home-preoduct-text-start h1 {
+        font-size: 34px;
+    }
+
+    .h-home-preoduct-text-start p {
+        margin-bottom: 24px;
+        padding: 0px 15px;
+    }
+
+    .h-new-patient-wrap {
+        grid-template-columns: 500px auto;
+    }
+
+    .h-family-cosmetic h1 {
+        font-size: 50px;
+        line-height: 70px;
+        padding-bottom: 25px;
+        margin-bottom: 20px;
+    }
+
+    .c-h-family-cosmetic-button {
+        margin-top: 50px;
+    }
+
+    .acc-head p {
+        padding-left: 100px;
+    }
+
+    .accrodient-section-start {
+        padding: 30px 70px 70px;
+    }
+
+    .h-family-cosmetic-section {
+        padding: 90px 0px;
+    }
+
+    .h-Client-Testimonials-top h2 {
+        font-size: 53px;
+        line-height: 60px;
+        padding-bottom: 20px;
+        margin: 0px auto 20px;
+    }
+
+    .h-Client-Testimonials-top>p.start {
+        margin-bottom: 20px;
+    }
+
+    .h-Client-Testimonials-top p {
+        font-size: 18px;
+        line-height: 22px;
+        margin: 0 auto 50px;
+    }
+
+
+    /* five-item-same */
+
+    .all-banner_section.five {
+        background-position: top 57px left 0px;
+        background-size: 47%;
+    }
+
+    .all_text {
+        margin-right: -119px;
+    }
+
+    /* cosmetes-section-start */
+    .all-banner_section.one {
+        padding: 116px 0px 385px;
+    }
+
+    .button-two {
+        margin-top: 45px;
+    }
+
+    .button-two.cs-b li {
+        font-size: 16px;
+    }
+
+    .button-two.cs-b li::after {
+        top: 0px;
+        height: 38px;
+        right: -20px;
+    }
+
+
+    /* common-dental-section */
+    .all-banner_section.two {
+        padding: 129px 0px 276px;
+        background-size: 48%;
+    }
+
+    /* after-before-section-start */
+    .all-banner_section.four {
+        background-position: left 11px bottom -29px;
+        padding: 209px 0px 385px;
+        background-size: 60%;
+    }
+
+
+    /* services-page-start */
+    .single-serve-booking {
+        width: 72%;
+    }
+
+    .single-serve-booking .booking-area.serves {
+        margin-left: unset;
+        max-width: 100%;
+    }
+
+    .services_img-text .services_text ul {
+        margin-top: -18px;
+    }
+
+    .button-two li {
+        font-size: 22px;
+    }
+
+    .button {
+        margin: 0px 0px 50px;
+    }
+
+    .services_img-text .services_text ul li {
+        line-height: 45px;
+    }
+
+    /* brokly-page-start */
+    .brokly-midil-area {
+        justify-content: center;
+    }
+
+    .brokly-midil-area .single-area {
+        flex: unset;
+        width: 18%;
+    }
+
+
+    /* two-item-same */
+    .best-rated-banner-section::after {
+        bottom: -32px;
+        background-position: top 0px left -213px;
+    }
+
+    /* best-rated-page-start */
+    .best-rated-b-left h2 {
+        font-size: 56px;
+        line-height: 73px;
+    }
+
+    .h-name_img {
+        margin-bottom: 30px;
+    }
+
+    /* contact-page-start */
+    .cotact-single-area h2 {
+        font-size: 26px;
+        padding-left: 70px;
+    }
+
+    .cotact-single-area h2::after {
+        left: 5px;
+        transform: scale(.9);
+    }
+
+    .cotact-single-area ul {
+        min-height: 266px;
+    }
+
+    .contact-form-section {
+        margin: 20px 0px 100px;
+    }
+
+
+
+}
+
+
+
+
+
+
+@media all and (max-width: 1365px) {
+    .logo-area {
+        width: 26%;
+    }
+
+    .logo-area a.img.logo-area-a img {
+        max-width: 70%;
+        padding: 10px 0px;
+    }
+
+    .main-menu ul li a {
+        font-size: 16px;
+    }
+
+    /* footer-area-start */
+    .f-single-area {
+        padding: 55px 29px 35px 29px;
+    }
+
+    .f-single-area h5,
+    .f-single-area p,
+    .f-single-area a {
+        padding-left: 50px;
+    }
+
+    .f-single-area iframe,
+    .f-single-area button {
+        margin-left: 50px;
+    }
+
+
+    /* home-page-start */
+    .banner-top-rated h1 {
+        font-size: 38px;
+        line-height: 45px;
+        margin-bottom: 22px;
+        padding-bottom: 22px;
+    }
+
+    .banner-top-rated h5 {
+        font-size: 16px;
+        letter-spacing: 9px;
+        line-height: 30px;
+    }
+
+    .booking-area a {
+        font-size: 23px;
+        letter-spacing: 0.3em;
+    }
+
+    .h-home-preoduct-text-start p {
+        padding: 0px 25px;
+    }
+
+    .h-home-preoduct-text-start ul li {
+        padding: 10px 0px 11px 60px;
+    }
+
+    .h-right-patient {
+        padding: 26px 54px 29px;
+    }
+
+    .h-right-patient h1 {
+        font-size: 46px;
+        line-height: 79px;
+        padding-bottom: 26px;
+        margin: 0px auto 31px;
+    }
+
+    .h-right-patient p {
+        width: 617px;
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .h-Client-Testimonials-top h2 {
+        font-size: 50px;
+        line-height: 49px;
+        padding-bottom: 22px;
+        margin: 0px auto 37px;
+    }
+
+    .h-Client-Testimonials-top>p.start {
+        line-height: 20px;
+        margin-bottom: 24px;
+    }
+
+    .h-Client-Testimonials-top p {
+        font-size: 18px;
+        line-height: 22px;
+        margin: 0 auto 59px;
+    }
+
+    .h-tabs-area-single {
+        padding: 24px 24px 95px;
+    }
+
+    .h-name_img {
+        margin-bottom: 20px;
+    }
+
+    li.active_h:after {
+        bottom: -27px;
+        width: 119px;
+    }
+
+    /* five-same-item */
+    .all-banner_section.brokyly {
+        padding: 260px 0px 213px;
+    }
+
+    /* cosmetes-page-start */
+    .all-banner_section.one {
+        padding: 115px 0px 230px;
+        background-size: contain;
+    }
+
+
+    .all_text {
+        margin-right: 30px;
+    }
+
+    .all_text h2 {
+        font-size: 54px;
+        line-height: 70px;
+        margin: 0px 0px 0px 236px;
+    }
+
+    .all_text p {
+        margin-left: 236px;
+    }
+
+    .big-p-flex p {
+        font-size: 16px;
+    }
+
+    .inner_text p {
+        font-size: 16px;
+    }
+
+    .inner_text .all-p {
+        max-width: 734px;
+        padding: 30px 64px;
+        top: -147px;
+    }
+
+    .cosmatic-m-left h2 {
+        font-size: 30px;
+        padding-left: 20px;
+    }
+
+    .button-two.cs-b li {
+        font-size: 14px;
+    }
+
+    .button-two.cs-b li::after {
+        top: -10px;
+        height: 31px;
+        right: -36px;
+    }
+
+    .single-div.ext h2 {
+        font-size: 35px;
+        margin-bottom: 16px;
+        line-height: 40px;
+    }
+
+    .single-div.ext p {
+        font-size: 17px;
+        margin-bottom: 21px;
+        line-height: 28px;
+    }
+
+    .content.content-2 {
+        padding: 80px 0px;
+    }
+
+    /* common-page-section */
+    .all-banner_section.two {
+        padding: 129px 0px 230px;
+        background-size: contain;
+    }
+
+    .common-single-area img {
+        width: 275px;
+    }
+
+
+
+    /* after-before-page-start */
+    .all-banner_section.four {
+        padding: 115px 0px 230px;
+        background-size: contain;
+    }
+
+    .after-before-area {
+        padding: 100px 0px 71px;
+    }
+
+    .a-f-single-area p {
+        padding-bottom: 40px;
+        margin-bottom: 40px;
+    }
+
+
+
+    /* services-page-start */
+    .all-banner_section.three {
+        background-size: 55%;
+        padding: 115px 0px 230px;
+        background-size: contain;
+    }
+
+    .button-two li {
+        font-size: 24px;
+    }
+
+    .button-two li::after {
+        height: 60px;
+        transform: rotate(45deg) translateY(14px);
+        -ms-transform: rotate(45deg) translateY(14px);
+        -webkit-transform: rotate(45deg) translateY(14px);
+    }
+
+    .services_img-text .services_img {
+        width: calc(100% - 33%);
+    }
+
+    .services_img-text .services_text ul li {
+        line-height: 42px;
+        font-size: 14px;
+    }
+
+    .single-serve-booking .booking-area.serves {
+        width: 80%;
+    }
+
+    .single-serve-booking {
+        width: 75%;
+    }
+
+    .single-serve-booking .booking-area.serves {
+        width: 89%;
+    }
+
+    /* brokly-page-start */
+    .brokly-midil-area .single-area a {
+        font-size: 15px;
+        margin: 20px 0px;
+    }
+
+    .brokly-midil-area .single-area {
+        width: 18%;
+    }
+
+    .brokly-midil-area .single-area img {
+        max-height: unset;
+        width: 100%;
+    }
+
+    /* two-item-same */
+    /* best-rated-page */
+
+
+    /* contact-page */
+    .cotact-single-area h2 {
+        font-size: 24px;
+        padding-left: 64px;
+    }
+
+    .cotact-single-area h2::after {
+        left: 3px;
+        transform: scale(0.7);
+    }
+
+    .cotact-single-area ul {
+        min-height: 245px;
+        padding: 25px 0px 0px 19px;
+    }
+
+    .contact-bottom-area .contact-bottom-lert {
+        padding: 50px 24px 50px 37px;
+    }
+
+    .contact-bottom-area .contact-bottom-lert h2 {
+        font-size: 42px;
+        line-height: 51px;
+        margin-bottom: 28px;
+    }
+
+    .contact-bottom-area .contact-bottom-lert p {
+        margin: 0px auto 29px 0px;
+    }
+
+
+}
+
+
+
+
+
+
+@media all and (max-width: 1199px) {
+    .location-area {
+        display: none;
+    }
+
+    .logo-area {
+        width: 26%;
+        text-align: left;
+        padding-left: 20px;
+    }
+
+    .logo-area a img {
+        width: 60%;
+    }
+
+    .main-menu>ul {
+        gap: 40px;
+        display: none;
+        position: fixed;
+        top: 76px;
+        left: 0;
+        background: #27304A;
+        width: 100%;
+        height: 100vh;
+        z-index: 999;
+        padding: 100px;
+        transition: unset;
+    }
+
+    .main-menu ul li {
+        display: block;
+    }
+
+    .main-menu ul li a {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+
+    .mani-m-b {
+        display: block;
+    }
+
+    .mani-m-b {}
+
+    .mani-m-b span {
+        width: 40px;
+        height: 4px;
+        margin-bottom: 8px;
+        background: #ffc170;
+        display: block;
+        border-radius: 5px;
+    }
+
+    .mani-m-b span.one {
+        width: 27px;
+    }
+
+    .mani-m-b span.two {}
+
+    .mani-m-b span.three {
+        width: 20px;
+    }
+
+    .mani-m-b.mani-m-b-2 {}
+
+    .mani-m-b.mani-m-b-2 span {}
+
+    .mani-m-b.mani-m-b-2 span.one {
+        width: 40px;
+        transform: rotate(-45deg) translatex(-18px);
+        -ms-transform: rotate(-45deg) translatex(-18px);
+        -webkit-transform: rotate(-45deg) translatex(-18px);
+    }
+
+    .mani-m-b.mani-m-b-2 span.two {
+        transform: translateX(100px);
+        -ms-transform: translateX(100px);
+        -webkit-transform: translateX(100px);
+    }
+
+    .mani-m-b.mani-m-b-2 span.three {
+        width: 40px;
+        transform: rotate(45deg) translate(-17px, 1px);
+        -ms-transform: rotate(45deg) translate(-17px, 1px);
+        -webkit-transform: rotate(45deg) translate(-17px, 1px);
+    }
+
+    /* footer-top-area */
+    .fotter-menu {
+        text-align: center;
+    }
+
+
+    /* home-page-start */
+    .banner-reviwe p {
+        margin-bottom: 5px;
+    }
+
+    .banner-top-rated h1 {
+        font-size: 40px;
+        line-height: 45px;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+        margin-top: 0px;
+    }
+
+    .year_20 p {
+        line-height: 18px;
+        padding: 0px 15px;
+    }
+
+    .banner-bot {
+        margin: 20px auto 0px 16px;
+    }
+
+    .banner-bot a {
+        width: 170px;
+        height: 63px;
+    }
+
+    .banner-bot::after {
+        right: 26px;
+        height: 63px;
+        background-size: contain;
+        width: 55%;
+    }
+
+    .booking-area {
+        gap: 49px;
+        padding: 15px 5px;
+    }
+
+    .booking-area a {
+        color: #3F4964;
+        font-size: 22px;
+        letter-spacing: 0.3em;
+    }
+
+    .home-tow-banner {
+        padding: 70px 0px;
+    }
+
+    .h-family-cosmetic-section {
+        padding: 70px 20px;
+        box-sizing: border-box;
+    }
+
+    .h-family-cosmetic h1 {
+        font-size: 45px;
+        line-height: 50px;
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+
+    .h-family-text {
+        width: 100%;
+    }
+
+    .h-family-text p {
+        margin-bottom: 20px;
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .h-family-cosmetic-button a {
+        font-size: 20px;
+        line-height: 28px;
+        width: 240px;
+        height: 72px;
+    }
+
+    .wrap-video {
+        width: 51%;
+        height: 53%;
+        top: 12%;
+        right: -3%;
+    }
+
+    .accrodient-section-start {
+        padding: 70px 80px;
+    }
+
+    .acc-head {
+        padding: 50px 10px;
+        font-size: 20px;
+    }
+
+    .acc-content>p,
+    .acc-content ul.a-gallry li a {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    .acc-content-v p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .acc-content ul.a-gallry li a {
+        font-size: 16px;
+        margin-left: 15px;
+    }
+
+    .acc-content-v ul li,
+    .acc-content-v ul li a {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .acc-head p {
+        padding-left: 100px;
+    }
+
+    .acc-head::before {
+        right: 44px;
+        height: 50px;
+    }
+
+    .acc-head::after {
+        width: 50px;
+    }
+
+    .h-right-patient {
+        padding: 30px 20px;
+    }
+
+    .h-right-patient::before {
+        left: -100px;
+        border-top: 50px solid transparent;
+        border-right: 50px solid #45a7c1;
+        border-bottom: 50px solid transparent;
+        border-left: 50px solid transparent;
+    }
+
+    .h-right-patient h1 {
+        font-size: 36px;
+        line-height: 70px;
+        padding-bottom: 11px;
+        margin: 0px auto 24px;
+    }
+
+    .h-right-patient p {
+        width: 100%;
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+
+    /* five-same-items */
+    .all-banner_section.brokyly {
+        padding: 179px 0px 213px;
+    }
+
+    .all-banner_section.five {
+        background-position: top 30px left 0px;
+    }
+
+    .all_text h2 {
+        font-size: 45px;
+        line-height: 60px;
+        margin: 0px 0px 0px 350px;
+    }
+
+    .all_text p {
+        margin-left: 350px;
+    }
+
+    /* services-page-start */
+    .button-two li {
+        font-size: 20px;
+        margin-right: 56px;
+        line-height: 30px;
+    }
+
+    .button-two li::after {
+        height: 50px;
+        transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+    }
+
+    .button-two li::after {
+        height: 50px;
+        transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        right: -35px;
+        top: -9px;
+    }
+
+    .services_img-text .services_text ul li {
+        line-height: 32px;
+    }
+
+    .single-serve-booking {
+        width: calc(1760px - 105%);
+    }
+
+    .single-serve-booking .booking-area.serves {
+        width: 90%;
+    }
+
+    /* cosmatic-page-start */
+    .cosmatic-m-area {
+        flex-direction: column;
+        gap: 21px;
+        margin-top: -20px;
+        margin-bottom: 80px;
+    }
+
+    .content.content-2 {
+        padding: 60px 0px;
+    }
+
+    .cosmatic-m-left h2 {
+        font-size: 36px;
+        position: unset;
+    }
+
+    .cosmatic-m-left h2::after {
+        display: none;
+    }
+
+    .button-two.cs-b li {
+        font-size: 14px;
+        margin-right: 20px;
+    }
+
+    .button-two.cs-b li::after {
+        top: 6px;
+        height: 20px;
+        right: -13px;
+    }
+
+    .button.button-twoJ_cs-b {
+        margin-bottom: 30px;
+    }
+
+    .cosmatic-bottom-area h2 {
+        font-size: 37px;
+        line-height: 32px;
+        margin-bottom: 10px;
+    }
+
+    /* brokly-page-start */
+    .brokly-midil-area {
+        padding: 0px 12px;
+        gap: 20px;
+    }
+
+    .brokly-midil-area .single-area a {
+        font-size: 13px;
+    }
+
+    /* common-page-start */
+
+    .common-single-area img {
+        width: 230px;
+    }
+
+    .common-dental-area {
+        margin-top: 30px;
+        padding-bottom: 70px;
+    }
+
+    .common-single-area a {
+        font-size: 20px;
+    }
+
+
+    /* two-item-same */
+    .best-rated-b-right {
+        padding: 100px 0px;
+    }
+
+    .best-rated-banner-section::after {
+        bottom: -32px;
+    }
+
+    .best-rated-b-left {
+        padding: 100px 0px;
+    }
+
+    .best-rated-b-left h2 {
+        font-size: 50px;
+        line-height: 63px;
+        padding: 0px 6px;
+    }
+
+    /* best-rated-page */
+    .h-tabs-area-single {
+        padding: 24px 40px 100px;
+    }
+
+    .owl-dots {
+        display: none;
+    }
+
+    .h-tabs-area-single>p {
+        min-height: 260px;
+    }
+
+    .H_single-div.active-two {
+        padding: 0px 50px;
+    }
+
+    .H_single-div_active.owl-carousel {
+        display: unset;
+    }
+
+    .owl-nav {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: -17px;
+        margin: auto 0;
+        width: 100%;
+        height: 39%;
+        font-size: 61px;
+        z-index: -9999;
+        font-family: ui-monospace;
+    }
+
+    .owl-nav button.owl-prev span {
+        position: absolute;
+        left: -10px;
+        top: 0;
+    }
+
+    .owl-nav button.owl-next span {
+        position: absolute;
+        right: -45px;
+        top: 0;
+    }
+
+    .c-h-family-cosmetic-button {
+        margin-top: 44px;
+    }
+
+    .h-Client-Testimonials-section-start {
+        padding: 70px 15px;
+    }
+
+    .tabs_b_area {
+        margin-bottom: 35px;
+    }
+
+    /* contact-page-start */
+    section.best-rated-text-section {
+        padding: 73px 0px 60px;
+    }
+
+    .cotact-single-area ul li button {
+        padding: 13px 121px 13px 20px;
+    }
+
+    .cotact-single-area h2::after {
+        left: 0px;
+        transform: scale(0.6);
+    }
+
+    .cotact-single-area h2 {
+        font-size: 23px;
+        padding-left: 58px;
+    }
+
+    .form-area h2 {
+        margin-bottom: 44px;
+        font-size: 43px;
+    }
+
+    .form-area form input,
+    .form-area form textarea {
+        padding: 34px 0px 30px 22px;
+        font-size: 18px;
+    }
+
+    .contact-bottom-area {
+        flex-direction: column;
+        -ms-flex-direction: column;
+    }
+
+    .contact-bottom-area .contact-bottom-lert h2 {
+        max-width: 800px;
+        margin: 0 auto 25px;
+        text-align: center;
+    }
+
+    .contact-bottom-area .contact-bottom-lert p {
+        max-width: 800px;
+        margin: 0 auto 20px;
+    }
+
+    .contact-bottom-rihgt .mpa-are iframe {
+        height: 500px !important;
+    }
+
+}
+
+
+
+
+@media all and (max-width: 1023px) {
+
+    /* home-page-start */
+    .h-right-patient h1 {
+        font-size: 34px;
+    }
+
+    /* five-same-items */
+    .all-banner_section.five {
+        background-size: contain;
+        background-position: top 25px left 0px;
+    }
+
+    .all_text {
+        text-align: center;
+    }
+
+    .all_text h2 {
+        font-size: 41px;
+        line-height: 50px;
+        margin: 0px 0px 0px 0px;
+    }
+
+    .all_text p {
+        margin-left: 0px;
+    }
+
+    .inner_text .all-p {
+        max-width: 800px;
+        padding: 25px 41px;
+        top: -100px;
+    }
+
+    /* cosmetic-page */
+    .all-banner_section.one {
+        padding: 115px 0px 175px;
+    }
+
+    .cosmatic-top-header {
+        margin-bottom: 40px;
+    }
+
+    .button-two {
+        display: flex;
+        overflow: scroll;
+        padding-bottom: 2px;
+    }
+
+    .button-two.cs-b li {
+        min-width: 16%;
+    }
+
+    .button-two.cs-b li::after {
+        top: 0px;
+        height: 30px;
+        right: -6px;
+    }
+
+    .button.button-twoJ_cs-b {
+        position: relative;
+        padding: 0px 30px;
+    }
+
+    .button.button-twoJ_cs-b:after,
+    .button.button-twoJ_cs-b::before {
+        content: "";
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background: transparent;
+        border-top: 2px solid #000;
+        border-right: 2px solid #000;
+        top: 4px;
+        right: 14px;
+        bottom: 0;
+        margin: 0;
+        transform: rotate(45deg);
+    }
+
+    .button.button-twoJ_cs-b::before {
+        left: 14px;
+        transform: rotate(-135deg);
+    }
+
+
+    /* common-dental-page-start */
+    .all_text.c-b-m-_l {
+        margin-left: 279px;
+    }
+
+    .common-single-area img {
+        width: 220px;
+    }
+
+    .all-banner_section.two {
+        padding: 115px 0px 175px;
+    }
+
+    /* after-before-page-start */
+    .all-banner_section.four {
+        padding: 115px 0px 175px;
+    }
+
+
+    /* services-page-start */
+    .all-banner_section.three {
+        padding: 115px 0px 175px;
+    }
+
+    .button {
+        margin: 20px 0px 50px;
+    }
+
+    .services_img-text .services_text ul li {
+        line-height: 35px;
+    }
+
+    .single-serve-booking {
+        width: calc(1760px - 110%);
+        margin-top: 30px;
+    }
+
+    .content {
+        margin-bottom: 60px;
+    }
+
+    /* brokly-page-start */
+    .brokly-midil-area .single-area a {
+        font-size: 12px;
+    }
+
+    .brokly-last-area h2 {
+        margin: 20px;
+        font-size: 38px;
+        line-height: 46px;
+    }
+
+}
+
+
+
+
+
+
+
+@media all and (max-width: 991px) {
+
+    /* footer-area-start */
+
+    .f-single-area {
+        padding: 25px 18px 15px 17px;
+    }
+
+    .f-single-area h5,
+    .f-single-area p,
+    .f-single-area a {
+        padding-left: 0px;
+    }
+
+    .f-single-area iframe,
+    .f-single-area button {
+        margin-left: 0px;
+    }
+
+    .f-single-area h5 {
+        text-align: center;
+        font-size: 20px;
+    }
+
+
+
+    /* home-page-start */
+    .banner-section {
+        background: none;
+    }
+
+    .banner-area {
+        flex-direction: column;
+    }
+
+    .banner-text {
+        background: rgba(38, 48, 77, 1);
+    }
+
+    .banner-right-video {
+        background: url(images/bannerBg.jpg) no-repeat;
+        background-size: cover;
+        object-fit: cover;
+    }
+
+    .banner-bot {
+        margin: 30px auto 0px;
+    }
+
+    .banner-right-video button {
+        width: 120px;
+        margin: 70px 0px;
+    }
+
+    .booking-area {
+        gap: 65px;
+        padding: 10px 5px;
+    }
+
+    .banner-bot a {
+        width: 188px;
+        height: 63px;
+    }
+
+    .wrap-video {
+        top: 21%;
+    }
+
+    .h-home-all-area {
+        flex-direction: column;
+    }
+
+    .h-home-preoduct-img {
+        padding: 30px 10px;
+        height: 100px;
+        text-align: center;
+    }
+
+    .h-home-preoduct-img img {
+        width: 60vh;
+    }
+
+    .accrodient-section-start {
+        padding: 60px 40px;
+    }
+
+    .acc-head {
+        padding: 40px 0px;
+        font-size: 18px;
+    }
+
+    .acc-head::before {
+        right: 39px;
+        height: 40px;
+    }
+
+    .acc-head::after {
+        width: 40px;
+    }
+
+
+    .acc-head p {
+        padding-left: 50px;
+    }
+
+    .acc-content ul.a-gallry {
+        margin: 15px 10px 10px;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+
+    .acc-content-v ul {
+        margin: 20px 0px 20px 22px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .acc-content-v ul li,
+    .acc-content-v ul li a {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .h-new-patient-wrap {
+        grid-template-columns: repeat(1, 4fr);
+    }
+
+    .h-right-patient {
+        padding: 27px 20px;
+        text-align: center;
+    }
+
+    .h-right-patient:after {
+        background-size: contain;
+    }
+
+    .h-left-patient {
+        width: 100%;
+        height: 300px;
+    }
+
+    .h-left-patient img {
+        width: 100%;
+    }
+
+    .h-Client-Testimonials-top p {
+        margin: 0px auto 35px;
+        font-size: 16px;
+    }
+
+    .tabs_b_area ul li {
+        margin: 0px 68px 0px 0px;
+    }
+
+    li.active_h:after {
+        bottom: -20px;
+        width: 110px;
+    }
+
+    .tabs_b_area {
+        padding: 0px 0px 17px;
+        margin: 0px 0px 30px;
+    }
+
+    .c-h-family-cosmetic-button {
+        margin-top: 35px;
+    }
+
+    .h-Client-Testimonials-section-start {
+        padding: 60px 15px;
+    }
+
+    .h-family-cosmetic-button a {
+        font-size: 20px;
+        width: 231px;
+    }
+
+
+
+    /* five-same-items */
+
+
+    .all_text {
+        text-align: center;
+        margin-left: 120px;
+    }
+
+    .all_text h2 {
+        margin: 0;
+    }
+
+    .inner_text.one {
+        padding-bottom: 0px;
+    }
+
+    .cosmitic-dental-area-start {
+        padding-top: 68px;
+    }
+
+
+    .inner_text.five {
+        padding-bottom: 38px;
+    }
+
+    .inner_text .all-p {
+        max-width: 600px;
+        position: unset;
+        margin: 40px auto 0px;
+    }
+
+    .inner_text p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .all-banner_section.brokyly {
+        padding: 150px 0px;
+    }
+
+    .services-brokly-area {
+        padding: 70px 48px;
+        width: 75%;
+    }
+
+    .services-brokly-bottom-section .services_brokly-bottom-area {
+        width: 75%;
+    }
+
+    /* cosmetic-section-banner */
+    .all-banner_section.one {
+        padding: 100px 0px 140px;
+    }
+
+    .cosmatic-top-area {
+        padding: 0px 15px;
+    }
+
+    .cosmatic-top-area>p {
+        margin-bottom: 20px;
+    }
+
+    .cosmatic-m-left h2 {
+        font-size: 33px;
+        line-height: 32px;
+        padding-left: 0px;
+    }
+
+    .cosmitic-list li {
+        width: 47%;
+        padding: 10px 0px 12px 54px;
+        line-height: 26px;
+    }
+
+    .button-two.cs-b li {
+        min-width: 21%;
+    }
+
+    .button-two.cs-b li::after {
+        transform: rotate(45deg);
+    }
+
+    .con {
+        padding: 0px 15px;
+    }
+
+    .single-div.ext span {
+        margin: 13px 0px 11px;
+    }
+
+    .cosmatic-top-area>p {
+        margin-bottom: 19px;
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .content {
+        margin-bottom: 35px;
+    }
+
+    .cosmatic-medil-area {
+        margin-top: 50px;
+        margin-bottom: 0px;
+    }
+
+    .cosmatic-top-header p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .cosmatic-m-right {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .cosmatic-m-m {
+        padding: 0px 15px !important;
+    }
+
+    .cosmatic-medil-area p.cos-m-p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .cosmatic-m-area {
+        max-width: 800px;
+        padding: 0px 15px;
+        margin: 50px auto 64px;
+    }
+
+    /* common-detal-section-start */
+    .all-banner_section.two {
+        padding: 100px 0px 110px;
+    }
+
+    .all_text.c-b-m-_l {
+        margin-left: 150px;
+    }
+
+    .inner_text.two {
+        padding-bottom: 36px;
+    }
+
+    .common-dental-area {
+        margin-top: 30px;
+        padding-bottom: 50px;
+        margin-bottom: 0px;
+    }
+
+
+    /* after-before-section-start */
+    .all-banner_section.four {
+        padding: 100px 0px 140px;
+    }
+
+    .inner_text.four {
+        padding-bottom: 0;
+    }
+
+    .after-before-area {
+        padding: 50px 0px 71px;
+    }
+
+    .after-before-area {
+        padding: 50px 15px 60px;
+    }
+
+    .a-f-single-area p {
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+        line-height: 29px;
+    }
+
+    /* services-section-start */
+    .all-banner_section.three {
+        padding: 100px 0px 140px;
+    }
+
+    .inner_text.three {
+        padding-bottom: 50px;
+    }
+
+    .button-two li {
+        font-size: 18px;
+        margin-right: 28px;
+    }
+
+    .button-two li::after {
+        height: 30px;
+        transform: unset;
+        right: -19px;
+        top: 0px;
+    }
+
+    .services_img img {
+        height: 100%;
+    }
+
+    .single-serve-booking {
+        width: 100%;
+    }
+
+    .single-serve-booking .booking-area.serves {
+        width: 67%;
+    }
+
+    .services_img-text .services_text ul li {
+        padding-left: 20px;
+    }
+
+    /* broly-page-start */
+    .brokly-top-area .brokly-area-one h5 {
+        margin: 11px 0px 20px;
+    }
+
+    .brokly-box .brokly-single-box {
+        padding: 25px 20px;
+    }
+
+    .brokly-area-three>p {
+        margin-bottom: 20px;
+    }
+
+    .brokly-area-c-button.brokly-area-c-button-two {
+        margin: 30px 0px 22px;
+    }
+
+    .brokly-area-three p.first.none_ {
+        margin-top: 9px;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .brokly-midil-area {
+        column-gap: 30px;
+        row-gap: 40px;
+    }
+
+    .brokly-midil-area .single-area {
+        width: 37%;
+    }
+
+    .brokly-midil-area .single-area img {
+        max-width: unset;
+    }
+
+    .brokly-midil-area .single-area a {
+        font-size: 16px;
+    }
+
+    .brokly-container {
+        padding: 0px 15px;
+    }
+
+    .brokly-last-area h2.bkl_last-h {
+        margin: 20px 0px 70px;
+    }
+
+    .brokly-area-c-button {
+        padding: 12px 0px;
+        margin-bottom: 20px;
+    }
+
+
+
+    /* two-item-same */
+
+
+    .best-rated-banner-start {
+        flex-direction: column;
+    }
+
+    /* best-rated-section-start */
+
+    .best-rated-banner-section::after {
+        background: unset;
+    }
+
+    .best-rated-b-right:after {
+        background: unset;
+    }
+
+    .best-rated-b-left h2 {
+        padding: 0px 15px;
+    }
+
+    .best-rated-b-right {
+        padding: 50px 0px;
+    }
+
+    .best-rated-b-right p {
+        padding: 0px 15px;
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    /* best-rated-page */
+
+    .h-tabs-area-single>p {
+        min-height: 131px;
+    }
+
+    section.best-rated-text-section {
+        padding: 50px 15px;
+    }
+
+    .best-rated-text img {
+        margin-bottom: 25px;
+    }
+
+    .all-p.bst p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .best-rated-text>p {
+        margin-bottom: 12px;
+        font-size: 18px;
+    }
+
+    /* contact-page */
+    section.best-rated-text-section.contact-p {
+        padding: 50px 0px;
+    }
+
+    .cotact-single-area h2::after {
+        transform: scale(0.4);
+        left: -10px;
+    }
+
+    .cotact-single-area h2 {
+        font-size: 19px;
+        padding-left: 37px;
+    }
+
+    .cotact-single-area ul li button {
+        padding: 13px 61px 13px 20px;
+        font-size: 18px;
+    }
+
+    .cotact-single-area ul li {
+        font-size: 16px;
+    }
+
+    .contact-form-section {
+        margin: 20px 0px 80px;
+        padding: 0px 15px;
+    }
+
+    .contact-bottom-area .contact-bottom-lert h2 {
+        font-size: 38px;
+        line-height: 45px;
+    }
+
+    .contact-bottom-area .contact-bottom-lert p {
+        margin: 0px auto 20px 0px;
+        font-size: 18px;
+    }
+
+
+}
+
+@media all and (max-width: 767px) {
+    .main-menu ul li a {
+        font-size: 18px;
+    }
+
+    .logo-area {
+        text-align: left;
+        padding: 0px 0px 0px 15px;
+    }
+
+    .logo-area a img {
+        width: 131px;
+    }
+
+    .main-menu>ul {
+        top: 58px;
+    }
+
+    .main-menu {
+        gap: 35px;
+        padding: 14px 18px 8px 0px;
+    }
+
+    .main-menu ul {
+        gap: 40px;
+    }
+
+    /* footer-top-area */
+    .footer-top-area div:nth-child(1) {
+        width: 100%;
+    }
+
+    .fotter-menu {
+        margin: 0px auto 30px;
+    }
+
+    .copyright-area {
+        flex-direction: column;
+        text-align: center;
+        gap: 20px;
+    }
+
+    /* home-page-start */
+    .banner-bot {
+        padding: 0px 20px;
+    }
+
+    .single-home-tow {
+        width: 247px;
+    }
+
+    .h-family-cosmetic h1 {
+        font-size: 38px;
+    }
+
+    .h-family-cosmetic-button {
+        gap: 45px;
+    }
+
+    .accrodient-section-start {
+        padding: 40px;
+    }
+
+    .acc-head {
+        padding: 30px 0px;
+    }
+
+    .acc-head p {
+        padding-left: 30px;
+    }
+
+    .acc-content-v ul li,
+    .acc-content-v ul li a {
+        font-size: 12px;
+    }
+
+    .acc-content ul.a-gallry li a {
+        font-size: 14px;
+        margin-left: 8px;
+    }
+
+    .acc-head::before {
+        right: 37px;
+        height: 35px;
+    }
+
+    .acc-head::after {
+        width: 35px;
+    }
+
+    .h-left-patient {
+        height: 250px;
+    }
+
+    .h-Client-Testimonials-section-start {
+        padding: 30px 15px;
+    }
+
+    .h-Client-Testimonials-top h2 {
+        font-size: 44px;
+        line-height: 47px;
+        padding-bottom: 19px;
+        margin: 0px auto 35px;
+    }
+
+    .h-Client-Testimonials-top>p.start {
+        font-size: 16px;
+    }
+
+    .tabs_b_area {
+        padding: 0px 0px 13px;
+        margin: 0px 0px 45px;
+    }
+
+    .tabs_b_area ul li {
+        font-size: 17px;
+        margin: 0px 32px 0px 0px;
+    }
+
+    li.active_h:after {
+        width: 84px;
+        bottom: -15px;
+    }
+
+    .h-Client-Testimonials-top>p.start::after {
+        top: -18px;
+        right: 0;
+        left: 0;
+        margin: auto;
+    }
+
+    /* five-same-items */
+    .all_text h2 {
+        font-size: 26px;
+        line-height: 40px;
+        margin: 0px;
+    }
+
+    .inner_text .all-p {
+        width: 95%;
+    }
+
+    .services-brokly-area .services-brokly-start h2 {
+        font-size: 25px;
+        line-height: 25px;
+        margin-bottom: 8px;
+    }
+
+    .services-brokly-area .services-brokly-start p,
+    .services-brokly-area .services-brokly-start p a {
+        font-size: 16px;
+        line-height: 22px;
+        text-align: justify;
+    }
+
+    .services_brokly-bottom-area p {
+        padding-bottom: 15px;
+        margin-bottom: 20px;
+        line-height: 20px;
+    }
+
+    .services-brokly-area {
+        padding: 40px 15px;
+        width: 75%;
+    }
+
+    .services_brokly-bottom_left {
+        border-right: unset;
+        text-align: center;
+        width: 100%;
+    }
+
+    .services_brokly-bottom_right {
+        margin: 30px 0px 0px;
+    }
+
+    .all-banner_section.brokyly {
+        padding: 100px 0px;
+    }
+
+    .all-banner_section.five {
+        background: unset;
+    }
+
+    /* cosmatis-section */
+    .all_text {
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    .all-banner_section.one {
+        padding: 100px 0px;
+        background: none;
+    }
+
+    .cosmitic-list li {
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .cosmatic-m-left h2 {
+        text-align: center;
+    }
+
+    .button-two.cs-b li {
+        min-width: 30%;
+    }
+
+    .button.button-twoJ_cs-b:after,
+    .button.button-twoJ_cs-b::before {
+        width: 15px;
+        height: 15px;
+        top: 8px;
+    }
+
+    .single-div.ext p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .single-div.ext p a {
+        font-size: 16px;
+    }
+
+    .single-div.ext h2 {
+        font-size: 27px;
+    }
+
+
+    /* common-dental-section-start */
+    .all-banner_section.two {
+        background: none;
+        padding: 100px 0px;
+    }
+
+    .all_text.c-b-m-_l {
+        margin-left: 0;
+    }
+
+    .inner_text.two {
+        padding-bottom: 0;
+    }
+
+    .common-dental-area {
+        overflow: hidden;
+    }
+
+    /* after-before-section-start */
+    .all-banner_section.four {
+        padding: 100px 0px;
+        background: none;
+    }
+
+    .all-banner_section.three {
+        padding: 100px 0px;
+        background: none
+    }
+
+    .inner_text.three {
+        padding-bottom: 50px;
+    }
+
+    .button {
+        margin: 0px auto 72px;
+    }
+
+    .a-b-h-text p {
+        font-size: 18px;
+        margin-bottom: 22px;
+        line-height: 28px;
+    }
+
+    .after-before-main-area h2 {
+        font-size: 40px;
+        line-height: 42px;
+        margin-bottom: 12px;
+    }
+
+    .after-before-main-area>p {
+        margin-bottom: 20px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .a-f-single-area h4 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    .a-f-single-area img {
+        margin-bottom: 30px;
+    }
+
+
+    /* services-section-start */
+    .button-two li {
+        font-size: 14px;
+        margin-right: 22px;
+    }
+
+    .button-two li::after {
+        right: -14px;
+        height: 19px;
+        top: 5px;
+    }
+
+    .services_img-text .services_text ul {
+        margin-top: 0px;
+    }
+
+    .button {
+        margin: 0px auto 30px;
+    }
+
+    .single-serve-booking .booking-area.serves {
+        width: 96%;
+        margin: 0px auto;
+    }
+
+    .booking-area.serves a {
+        font-size: 16px;
+    }
+
+    .services_img-text .services_img {
+        width: 100%;
+    }
+
+    .services_img-text .services_text {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .services_img-text .services_text ul li {
+        line-height: 40px;
+    }
+
+    /* brokly-page-start */
+    .brokly-box {
+        margin: 20px 0px;
+    }
+
+    .brokly-midil-area .single-area a {
+        font-size: 15px;
+    }
+
+    .brokly-box .brokly-single-box {
+        padding: 15px 7px;
+    }
+
+    .brokly-box .brokly-single-box h5 {
+        font-size: 18px;
+    }
+
+    .brokly-box .brokly-single-box p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .brokly-area-three {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .brokly-last-area {
+        margin-bottom: 50px;
+        margin-top: 45px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .brokly-top-area .brokly-area-one p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .cosmatic-top-header {
+        background-color: #ffc170;
+        padding: 64px 20px 58px;
+        position: relative;
+        margin-bottom: 40px;
+    }
+
+    .content.content-2 {
+        padding: 30px 0px;
+    }
+
+    .cosmatic-bottom-area p a {
+        font-size: 16px;
+    }
+
+    .cosmatic-bottom-area h2 {
+        font-size: 30px;
+    }
+
+    .cosmitic-dental-area-start {
+        margin-bottom: 37px;
+    }
+
+    /* two-items-same */
+    .best-rated-b-left {
+        padding: 70px 0px;
+    }
+
+    .best-rated-b-left h2 {
+        line-height: 47px;
+        font-size: 26px;
+    }
+
+    .h-tabs-area-single>p {
+        min-height: 270px;
+    }
+
+    .h-Client-Testimonials-top.best-r {
+        padding: 30px 0px 20px;
+    }
+
+    .best-rated-b-right p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    section.best-rated-text-section {
+        padding: 30px 15px;
+    }
+
+    .all-p.bst p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .best-rated-text>p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .best-rated-b-right {
+        padding: 30px 0px;
+    }
+
+    /* contact-page */
+    .cotact-single-area {
+        flex: unset;
+        width: 100%;
+    }
+
+    .cotact-single-area h2 {
+        font-size: 27px;
+        padding-left: 100px;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+    }
+
+    .cotact-single-area h2::after {
+        transform: scale(0.7);
+        left: 34px;
+    }
+
+    .cotact-single-area ul {
+        min-height: 200px;
+        padding: 25px 0px 0px 100px;
+    }
+
+    .contact-form-section {
+        margin: 19px 0px 50px;
+    }
+
+    .form-area form .robot {
+        margin: 31px 0px 25px;
+    }
+
+    .form-area form input,
+    .form-area form textarea {
+        padding: 26px 0px 14px 15px;
+        font-size: 16px;
+    }
+
+    .form-area form button {
+        padding: 16px 100px 14px;
+    }
+}
+
+
+
+
+
+
+@media all and (max-width: 574px) {
+
+    .hader-top-area {
+        flex-direction: column;
+    }
+
+    .logo-area {
+        width: 100%;
+        padding: 10px 0px 0px 15px;
+    }
+
+    .logo-area a {
+        display: inline-flex;
+    }
+
+    .logo-area a img {
+        width: 50%;
+    }
+
+    .main-menu ul li a {
+        font-size: 16px;
+    }
+
+    .main-menu>ul {
+        top: 96px;
+    }
+
+    .mani-m-b {
+        position: fixed;
+        top: 15px;
+        right: 15px;
+        width: 40px;
+        height: 28px;
+    }
+
+    .main_menu-area {
+        width: 100%;
+    }
+
+    .main-menu {
+        padding: 0px;
+        justify-content: center;
+    }
+
+    .main-menu>ul {
+        top: 96px;
+    }
+
+    /* home-page-start */
+    .banner-top-rated h1 {
+        font-size: 32px;
+    }
+
+    .banner-bot {
+        padding: 0px 20px 30px;
+    }
+
+    .banner-bot a {
+        margin: 0 auto;
+    }
+
+    .banner-bot::after {
+        right: 0;
+        left: 0;
+        margin: auto;
+        top: 80px;
+    }
+
+    .booking-area a {
+        letter-spacing: 0.1em;
+    }
+
+    .wrap-video {
+        top: 21%;
+        width: 58%;
+        height: 50vh;
+    }
+
+    .home-tow-banner:after {
+        height: 100%;
+    }
+
+    .single-home-tow {
+        width: 100%;
+        background: none !important;
+        height: unset;
+    }
+
+    .home-tow-start {
+        padding: 0px 20px;
+    }
+
+    .general-text {
+        background: unset;
+    }
+
+    .general-text a::after {
+        top: -87px;
+        transform: scale(.6);
+    }
+
+    .general-text.four a:after {
+        left: -14px;
+    }
+
+    .general-text a {
+        font-size: 16px;
+    }
+
+    .home-tow-start {
+        position: relative;
+    }
+
+    .home-tow-start::after,
+    .home-tow-start::before {
+        content: "";
+        position: absolute;
+        width: 85%;
+        height: 2px;
+        left: 0;
+        right: 0;
+        background: #6e778f;
+        margin: auto;
+        top: 116px;
+    }
+
+    .home-tow-start::before {
+        transform: rotate(90deg);
+        width: 57%;
+    }
+
+    .h-family-cosmetic h1 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+
+    .h-family-text p {
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+
+    button.more-less span {
+        font-size: 18px;
+    }
+
+    .h-family-cosmetic-button a {
+        font-size: 16px;
+        width: 60%;
+        height: 50px;
+    }
+
+    .h-family-cosmetic-section {
+        padding: 50px 20px;
+    }
+
+    .h-home-preoduct-text-start h1 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 18px;
+        padding-bottom: 20px;
+    }
+
+    .h-home-preoduct-text {
+        padding: 50px 0px;
+    }
+
+    .h-home-preoduct-text-start p {
+        padding: 0px 15px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .h-home-preoduct-text-start ul li a {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .h-home-preoduct-text-start ul li a::after {
+        width: 7px;
+        height: 7px;
+    }
+
+    .h-home-preoduct-img img {
+        height: 50vh;
+    }
+
+    .accrodient-section-start {
+        padding: 20px 17px 30px;
+    }
+
+    .acc-head p {
+        padding-left: 20px;
+    }
+
+    .acc-content ul.a-gallry {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .acc-content>p,
+    .acc-content ul.a-gallry li a {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .acc-content {
+        margin-top: 20px;
+    }
+
+    .acc-content ul.a-gallry li a {
+        margin-left: 30px;
+    }
+
+    .acc-content-v ul {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .acc-content-v ul li,
+    .acc-content-v ul li a {
+        font-size: 16px;
+    }
+
+    .acc-content-v p {
+        font-size: 16px;
+        line-height: 23px;
+    }
+
+    .h-right-patient h1 {
+        font-size: 27px;
+        line-height: 34px;
+        margin-bottom: 12px;
+    }
+
+    .h-right-patient p {
+        font-size: 14px;
+    }
+
+    .h-Client-Testimonials-top>p.start::after {
+        top: -20px;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+
+    .h-Client-Testimonials-top h2 {
+        font-size: 37px;
+        line-height: 45px;
+        padding-bottom: 10px;
+        margin: 0px auto 31px;
+    }
+
+    .h-Client-Testimonials-top p {
+        margin: 0px auto 24px;
+        font-size: 16px;
+    }
+
+    .tabs_b_area ul li {
+        font-size: 14px;
+        margin: 0px 25px 0px 0px;
+    }
+
+    li.active_h:after {
+        width: 65px;
+    }
+
+    /* footer-area-start */
+    .footer-top-area {
+        flex-direction: column;
+    }
+
+    .fotter-menu a {
+        color: #fff;
+        font-size: 14px;
+    }
+
+    .fotter-menu {
+        margin: 0px auto 15px;
+    }
+
+    .social-menu a {
+        margin: 3px 5px;
+        width: 40px;
+    }
+
+    .copyright-area {
+        flex-direction: column;
+        text-align: center;
+        gap: 15px;
+    }
+
+    .footer-bottom-area {
+        padding: 20px 0px;
+    }
+
+    .copyright-area p,
+    .copyright-area p a {
+        color: #fff;
+        line-height: 20px;
+        font-size: 14px;
+    }
+
+
+    /* five-same-items */
+    /* brokly-page */
+    .all_text h2 {
+        font-size: 35px;
+        line-height: 41px;
+    }
+
+    .all-banner_section.brokyly {
+        padding: 70px 0px;
+    }
+
+    .brokly-area-c-button a {
+        font-size: 15px;
+    }
+
+    .brokly-box {
+        margin: 10px 0px;
+        flex-direction: column;
+    }
+
+    .brokly-box .brokly-single-box h5 {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+    .brokly-area-three h2,
+    .brokly-last-area h2 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .brokly-area-three p.first {
+        margin-bottom: 11px;
+        font-size: 16px;
+    }
+
+    .cosmatic-top-header::before {
+        width: 100%;
+    }
+
+    .cosmatic-top-header::after {
+        width: 100%;
+    }
+
+    .brokly-midil-area .single-area {
+        width: 100%;
+    }
+
+    .brokly-midil-area .single-area a {
+        font-size: 18px;
+    }
+
+    .brokly-last-area {
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+
+    .cosmatic-top-header {
+        padding: 64px 20px 20px;
+    }
+
+
+
+    /* cosmetic-section */
+    .all-banner_section.one {
+        padding: 70px 0px;
+    }
+
+    .inner_text p {
+        font-size: 12px;
+        line-height: 24px;
+    }
+
+    .inner_text .all-p {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .big-p-flex span {
+        font-size: 41px;
+        line-height: 26px;
+        margin-right: 10px;
+    }
+
+    .services-brokly-area {
+        padding: 20px 15px;
+        width: 90%;
+    }
+
+    .button-two.cs-b li {
+        min-width: 42%;
+    }
+
+    .cosmatic-m-left h2 {
+        font-size: 30px;
+    }
+
+    .button.button-twoJ_cs-b {
+        margin-bottom: 10px;
+    }
+
+    .single-div.ext h2 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    /* common-dental-section */
+    .all-banner_section.two {
+        padding: 70px 0px;
+    }
+
+    .common-dental-area {
+        overflow: hidden;
+        padding: 0px 15px 50px;
+    }
+
+    .common-single-area a {
+        font-size: 17px;
+    }
+
+
+    /* after-before-section-start */
+    .all-banner_section.four {
+        padding: 70px 0px;
+    }
+
+    .a-b-h-text p {
+        font-size: 16px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        text-align: justify;
+    }
+
+    .after-before-main-area h2 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 14px;
+    }
+
+    .after-before-main-area>p {
+        margin-bottom: 13px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .a-f-single-area h4 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .a-f-single-area p {
+        padding-bottom: 24px;
+        margin-bottom: 24px;
+        line-height: 26px;
+        text-align: justify;
+        font-size: 16px;
+    }
+
+    .a-f-single-area p:after {
+        width: 150px;
+    }
+
+    .a-f-single-area img {
+        margin-bottom: 10px;
+    }
+
+
+
+
+    /* services-section-start */
+    .all-banner_section.three {
+        padding: 70px 0px;
+    }
+
+    .button {
+        position: relative;
+        padding: 0px 20px;
+    }
+
+    .button:after,
+    .button:after,
+    .button::before {
+        content: "";
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        background: transparent;
+        right: 8px;
+        top: -8px;
+        bottom: 0;
+        margin: auto;
+        border-top: 2px solid #000;
+        border-right: 2px solid #000;
+        transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+    }
+
+    .button::before {
+        left: 7px;
+        transform: rotate(-132deg);
+        -ms-transform: rotate(-132deg);
+        -webkit-transform: rotate(-132deg);
+        right: unset;
+    }
+
+    .button-two li {
+        min-width: 41%;
+    }
+
+    .button-two {
+        display: flex;
+        overflow: scroll;
+        padding: 0px 0px 9px;
+    }
+
+    .button-two li {
+        min-width: 33%;
+    }
+
+    .inner_text.three {
+        padding-bottom: 30px;
+    }
+
+
+
+    /* two-items-same */
+
+    .h-tabs-area-single>p {
+        min-height: 431px;
+    }
+
+    /* contact-page */
+    .form-area form input,
+    .form-area form textarea {
+        padding: 15px 0px 14px 15px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .cotact-single-area ul li button {
+        padding: 13px 100px 13px 20px;
+    }
+
+    .form-area h2 {
+        margin-bottom: 30px;
+        font-size: 40px;
+    }
+
+    section.best-rated-text-section.contact-p {
+        padding: 40px 0px 0px;
+    }
+
+    .form-area form .robot {
+        margin: 10px auto;
+        width: 29%;
+    }
+
+    .form-area form button {
+        padding: 10px 93px;
+    }
+
+    .cotact-single-area h2::after {
+        transform: scale(0.5);
+    }
+
+    .contact-top-area {
+        gap: 10px;
+    }
+    .contact-bottom-rihgt .mpa-are iframe {
+        height: 300px !important;
+    }
+
+
+
+}
+
+
+
+@media all and (max-width: 427px) {
+    .call-area {
+        padding-left: 25px;
+    }
+
+    .mani-m-b {
+        top: 10px;
+        right: 15px;
+        width: 30px;
+        height: 20px;
+    }
+
+    .logo-area {
+        width: 100%;
+        padding: 7px 0px 0px 13px;
+    }
+
+    .logo-area a img {
+        width: 33%;
+    }
+
+    .main-menu ul li a {
+        font-size: 12px;
+        line-height: 10px;
+    }
+
+    .main-menu>ul {
+        top: 74px;
+    }
+
+    .mani-m-b span {
+        width: 30px;
+        margin-bottom: 5px;
+        height: 3px;
+    }
+
+    .mani-m-b span.one {
+        width: 23px;
+    }
+
+    .mani-m-b span.three {
+        width: 18px;
+    }
+
+    .mani-m-b.mani-m-b-2 span.one {
+        width: 30px;
+        transform: rotate(-45deg) translate(-11px, 1px);
+    }
+
+    .mani-m-b.mani-m-b-2 span.three {
+        width: 30px;
+        transform: rotate(45deg) translate(-11px, 0px);
+    }
+
+    /* fotter-area */
+    .copyright-area p,
+    .copyright-area p a {
+        line-height: 17px;
+        font-size: 12px;
+    }
+
+    .footer-bottom-area {
+        padding: 20px 0px 0px;
+    }
+
+
+    /* home-page-start */
+    .banner-text {
+        padding: 50px 0px;
+    }
+
+    .home-tow-banner {
+        padding: 30px 0px;
+    }
+
+    .general-text a::after {
+        transform: scale(.5);
+    }
+
+    .h-family-cosmetic h1 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .h-family-cosmetic-button {
+        gap: 30px;
+        margin-top: 30px;
+    }
+
+    .acc-head::before {
+        right: 34px;
+        height: 30px;
+    }
+
+    .acc-head::after {
+        width: 30px;
+    }
+
+    .booking-area a {
+        font-size: 18px;
+    }
+
+    .h-home-preoduct-img {
+        padding: 20px 10px 0px;
+    }
+
+    .h-right-patient {
+        padding: 27px 15px;
+    }
+
+    .h-family-text p {
+        text-align: justify;
+    }
+
+    .year_20 p {
+        text-align: justify;
+    }
+
+    .h-home-preoduct-text-start p {
+        text-align: justify;
+    }
+
+    .acc-content>p,
+    .acc-content ul.a-gallry li a {
+        text-align: justify;
+    }
+
+    .acc-content-v p {
+        font-size: 14px;
+        line-height: 23px;
+        text-align: justify;
+    }
+
+    .h-right-patient p {
+        text-align: justify;
+    }
+
+    .acc-content ul.a-gallry li {
+        height: 50px;
+    }
+
+    .acc-content ul.a-gallry li span {
+        transform: scale(0.6);
+    }
+
+    .acc-content ul.a-gallry li span:after {
+        left: -15px;
+    }
+
+    .main-menu>ul {
+        padding: 40px 50px 0px;
+    }
+
+    .H_single-div.active-two {
+        padding: 0px 20px;
+    }
+
+
+    /* five-items-same */
+    .all_text h2 {
+        font-size: 30px;
+        line-height: 39px;
+    }
+
+    /* services-page-start */
+    .button-two li {
+        min-width: 35%;
+    }
+
+    /* cosmatic-page-start */
+    .cosmatic-m-area {
+        margin: -23px 0px 50px;
+    }
+
+    /* after-before-page */
+    .after-before-main-area h2 {
+        font-size: 28px;
+    }
+
+    .a-f-single-area h4 {
+        font-size: 19px;
+    }
+
+    .after-before-main-area>p {
+        line-height: 18px;
+    }
+
+    .after-before-area {
+        padding: 40px 15px;
+    }
+
+
+    /* two-items-same */
+    .best-rated-b-left p {
+        font-size: 14px;
+    }
+
+    .best-rated-b-left {
+        padding: 50px 0px;
+    }
+
+    .best-rated-b-left h2 {
+        line-height: 30px;
+        font-size: 26px;
+    }
+
+    section.best-rated-text-section {
+        padding: 40px 15px;
+    }
+
+    /* contact-page */
+
+
+
+
+
+}
+
+@media all and (max-width: 413px) {
+
+    /* home-page-start */
+    .banner-right-video button {
+        width: 100px;
+    }
+
+    .banner-right-video button:hover {
+        width: 100px;
+    }
+
+    .h-family-cosmetic h1 {
+        font-size: 25px;
+    }
+
+    button.more-less span {
+        font-size: 16px;
+    }
+
+    .h-home-preoduct-text-start h1 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .acc-head p {
+        font-size: 15px;
+    }
+
+    .h-left-patient {
+        height: 200px;
+    }
+
+    .tabs_b_area ul li {
+        font-size: 13px;
+        margin: 0px 16px 0px 0px;
+    }
+
+    .H_single-div.active-two {
+        padding: 0px 15px;
+    }
+
+    .owl-nav button.owl-next span {
+        right: -35px;
+    }
+
+    .owl-nav button.owl-prev span {
+        left: -2px;
+    }
+
+
+    /* five-items-same */
+    .button-two li {
+        min-width: 38%;
+    }
+
+    .single-serve-booking .booking-area.serves {
+        width: 96%;
+    }
+
+    /* cosmatic-page-start */
+    .cosmatic-m-left h2 {
+        font-size: 27px;
+    }
+
+    .button-two.cs-b li {
+        min-width: 46%;
+    }
+
+    .cosmatic-bottom-area h2 {
+        font-size: 26px;
+    }
+
+    /* after-before-page */
+    .after-before-main-area h2 {
+        font-size: 27px;
+    }
+
+    .a-f-single-area p:after {
+        width: 100px;
+    }
+
+    .a-f-single-area h4 {
+        font-size: 18px;
+    }
+
+    /* contact-page */
+    .contact-bottom-area .contact-bottom-lert h2 {
+        font-size: 35px;
+        line-height: 41px;
+        margin-bottom: 15px;
+    }
+
+    .contact-bottom-area .contact-bottom-lert p {
+        margin: 0px auto 20px 0px;
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .contact-bottom-area .contact-bottom-lert {
+        padding: 40px 24px 40px 37px;
+    }
+
+}
+
+@media all and (max-width: 389px) {
+
+    /* home-page-start */
+    .banner-top-rated h1 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+
+    .banner-reviwe p {
+        font-size: 14px;
+    }
+
+    .year_20 h5 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 10px;
+    }
+
+    .banner-bot a {
+        width: 150px;
+        height: 50px;
+    }
+
+    .banner-bot::after {
+        top: 60px;
+    }
+
+    .banner-right-video button {
+        margin: 50px 0px;
+    }
+
+    .home-tow-start {
+        gap: 10px;
+    }
+
+    .general-text a {
+        font-size: 14px;
+    }
+
+    .h-family-cosmetic h1 {
+        font-size: 24px;
+    }
+
+    .h-home-preoduct-text-start p {
+        font-size: 14px;
+    }
+
+    .h-right-patient h1 {
+        font-size: 25px;
+    }
+
+    .h-tabs-area-single {
+        padding: 24px 22px 67px;
+    }
+
+    .tabs_b_area {
+        margin: 0px 0px 27px;
+    }
+
+    /* five-items-same */
+    .all_text h2 {
+        font-size: 25px;
+    }
+
+    .all_text p {
+        font-size: 15px;
+    }
+
+    /* services-page-start */
+    .button-two li {
+        min-width: 41%;
+    }
+
+    /* cosmatic-page-start */
+    .button-two.cs-b li {
+        min-width: 48%;
+    }
+
+    .cosmitic-list li {
+        font-size: 16px;
+        padding-left: 27px;
+        line-height: 26px;
+    }
+
+    .cosmitic-list li::after {
+        left: 12px;
+    }
+
+    ul.cosmitic-list.mt li:after {
+        background: #fff;
+    }
+
+    /* after-before-page */
+    .after-before-main-area h2 {
+        font-size: 26px;
+    }
+
+    .a-f-single-area h4 {
+        font-size: 17px;
+    }
+
+    .a-f-single-area p {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+        line-height: 24px;
+    }
+
+    /* common-page-start */
+    .common-single-area a {
+        font-size: 16px;
+    }
+
+}
+
+@media all and (max-width: 374px) {
+    .big-p-flex {
+        flex-direction: column;
+    }
+
+    /* home-page-start */
+    .h-family-cosmetic-section {
+        padding: 25px 15px 40px;
+    }
+
+    .h-family-cosmetic h1 {
+        font-size: 23px;
+    }
+
+    .home-tow-start::before {
+        width: 60%;
+    }
+
+    .banner-right-video button {
+        margin: 40px 0px;
+        width: 80px;
+    }
+
+    .banner-right-video button:hover {
+        width: 80px;
+    }
+
+    .h-family-cosmetic h1 {
+        font-size: 23px;
+        line-height: 1.1em;
+        margin-bottom: 14px;
+    }
+
+    .h-family-cosmetic-button a {
+        font-size: 15px;
+        width: 155px;
+        height: 50px;
+    }
+
+    .h-home-preoduct-text {
+        padding: 40px 0px;
+    }
+
+    .h-home-preoduct-text-start h1 {
+        font-size: 26px;
+        line-height: 34px;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .h-home-preoduct-text-start ul {
+        max-width: 290px;
+    }
+
+    .h-home-preoduct-text-start ul li {
+        padding: 8px 0px 8px 50px;
+    }
+
+    .h-home-preoduct-text-start ul li a {
+        font-size: 16px;
+    }
+
+    .acc-content ul.a-gallry li a {
+        font-size: 14px;
+    }
+
+    .h-right-patient h1 {
+        font-size: 24px;
+    }
+
+    .h-Client-Testimonials-top>p.start {
+        line-height: 25px;
+        margin-bottom: 4px;
+        font-size: 16px;
+    }
+
+    /* five-items-same */
+
+    /* cosmatic-page-start */
+    .button-two.cs-b li {
+        min-width: 50%;
+    }
+
+    /* after-before-page */
+    .after-before-main-area h2 {
+        font-size: 25px;
+    }
+
+    .a-f-single-area h4 {
+        font-size: 16px;
+    }
+
+    /* cosmatic-page-start */
+    .common-dental-area {
+        padding: 0px 15px 40px;
+    }
+
+    /* items-two-same */
+    .cotact-single-area h2 {
+        font-size: 22px;
+        border-bottom: 1px solid #000;
+        padding-bottom: 5px;
+        margin-bottom: 13px;
+    }
+
+    .cotact-single-area ul {
+        min-height: unset;
+        padding: 15px 0px 15px 30px;
+    }
+
+    .cotact-single-area ul li {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .form-area form .robot {
+        width: 40%;
+    }
+
+    .form-area h2 {
+        margin-bottom: 20px;
+        font-size: 30px;
+    }
+
+    .contact-bottom-area .contact-bottom-lert h2 {
+        font-size: 32px;
+        line-height: 35px;
+        margin-bottom: 10px;
+    }
+
+}
+
+@media all and (max-width: 359px) {
+
+    /* home-page-start */
+    .banner-top-rated h1 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .booking-area a {
+        font-size: 16px;
+    }
+
+    .h-family-cosmetic h1 {
+        font-size: 21px;
+    }
+
+    .h-home-preoduct-text-start h1 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .acc-head p {
+        font-size: 14px;
+        padding: 0px 0px 0px 10px;
+    }
+
+    .acc-head::after {
+        width: 25px;
+    }
+
+    .acc-head::before {
+        right: 32px;
+        height: 25px;
+    }
+
+    li.active_h:after {
+        bottom: 3px;
+    }
+
+    /* services-page-start */
+    .button-two li {
+        min-width: 50%;
+    }
+
+
+    /* cosmatic-page-start */
+    .button-two.cs-b li {
+        min-width: 59%;
+    }
+
+    ul.cosmitic-list.mt li {
+        font-size: 14px;
+    }
+
+    /* after-before-page */
+    .after-before-main-area h2 {
+        font-size: 21px;
+    }
+
+    .a-f-single-area h4 {
+        font-size: 14px;
+    }
+
+    /* common-page-start */
+    .common-single-area a {
+        font-size: 14px;
+    }
+
+    /* contact-page */
+    section.best-rated-text-section.contact-p {
+        padding: 30px 0px 0px;
+    }
+
+    .cotact-single-area h2 {
+        font-size: 21px;
+        padding-left: 10px;
+        text-align: center;
+    }
+
+    .cotact-single-area h2::after {
+        transform: scale(0.5);
+        left: 2px;
+    }
+
+    .form-area form button {
+        font-size: 18px;
+    }
+
+    .contact-bottom-area .contact-bottom-lert h2 {
+        font-size: 28px;
+    }
+
+
+}
+
+@media all and (max-width: 319px) {
+    .main-menu>ul {
+        top: 73px;
+    }
+
+    /* home-page-start */
+    .banner-top-rated h1 {
+        font-size: 22px;
+    }
+
+    .year_20 h5 {
+        font-size: 16px;
+    }
+
+    .booking-area {
+        gap: 35px;
+    }
+
+    .general-text a {
+        font-size: 12px;
+    }
+
+    .home-tow-start::before {
+        width: 80%;
+    }
+
+    .general-text.four a:after {
+        left: -25px;
+    }
+
+    .h-family-cosmetic h1 {
+        font-size: 18px;
+    }
+
+    .h-family-cosmetic-button {
+        gap: 11px;
+        margin-top: 15px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .h-home-preoduct-text-start h1 {
+        font-size: 20px;
+    }
+
+    .h-home-preoduct-text-start ul li {
+        padding: 8px 0px 8px 50px;
+        margin: 0px 10px;
+    }
+
+    .acc-head p {
+        font-size: 12px;
+    }
+
+    .acc-head {
+        padding: 20px 0px;
+    }
+
+    .h-right-patient h1 {
+        font-size: 18px;
+    }
+
+    .h-Client-Testimonials-top h2 {
+        font-size: 28px;
+        line-height: 30px;
+        margin: 0px auto 25px;
+    }
+
+    .h-Client-Testimonials-top>p.start {
+        font-size: 14px;
+    }
+
+    .tabs_b_area ul li {
+        font-size: 11px;
+        margin: 0px 5px 0px 0px;
+    }
+
+    li.active_h:after {
+        width: 44px;
+    }
+
+    .acc-content ul.a-gallry li a {
+        margin-left: -10px;
+    }
+
+
+    /* services-page-start */
+    .button-two li {
+        min-width: 54%;
+    }
+
+    /* cosmatic-page-start */
+    .cosmatic-m-left h2 {
+        font-size: 26px;
+    }
+
+    .button-two.cs-b li {
+        min-width: 69%;
+    }
+
+    .single-div.ext h2 {
+        font-size: 24px;
+        line-height: 25px;
+    }
+
+    .cosmatic-bottom-area p a {
+        font-size: 14px;
+    }
+
+    /* after-before-page */
+    .after-before-main-area h2 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .a-f-single-area h4 {
+        font-size: 14px;
+    }
+
+    /* common-page-start */
+    .common-single-area a {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+
+
+
+}
+
+@media all and (max-width: 280px) {
+    .best-rated-b-left h2 {
+        line-height: 30px;
+        font-size: 25px;
+    }
+
+    .best-rated-b-left p {
+        font-size: 12px;
+    }
+
+
+
+}
